@@ -1,0 +1,22 @@
+{
+  "name": "code-wars-tasks",
+  "version": "1.0.0",
+  "description": "My code wars solutions",
+  "main": "1_palindrom.js",
+  "scripts": {
+    "start": "node 1_palindrom.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsirenko/code-wars-tasks.git"
+  },
+  "keywords": [
+    "codewars"
+  ],
+  "author": "Volodymyr Sirenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsirenko/code-wars-tasks/issues"
+  },
+  "homepage": "https://github.com/vsirenko/code-wars-tasks#readme"
+}
