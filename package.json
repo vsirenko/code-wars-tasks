@@ -4,7 +4,7 @@
   "description": "My code wars solutions",
   "main": "1_palindrom.js",
   "scripts": {
-    "start": "node 1_palindrom.js"
+    "start": "node 2_func.js"
   },
   "repository": {
     "type": "git",
